@@ -33,3 +33,5 @@ Non-commercial technology sharing and decentralized plastic waste treatment.
 [[www.azadrg.cloud](http://www.azadrg.cloud/)](http://www.azadrg.cloud)
 
 <img width="792" height="601" alt="PW-RolandGeyer" src="https://github.com/user-attachments/assets/32392275-583f-401c-8a15-904494803c9a" />
+
+<small><strong>Source:</strong> Roland Geyer, Jenna R. Jambeck, and Kara Lavender Law (2017). <em>Production, use, and fate of all plastics ever made.</em> Science Advances, 3(7), e1700782. <a href="https://doi.org/10.1126/sciadv.1700782">https://doi.org/10.1126/sciadv.1700782</a><br>Graph based on publicly available research data. The 2050 values represent an illustrative scenario, not a confirmed forecast.</small>
